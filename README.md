@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I'm ***Android Developer*** and ***Desktop Developer***.
+I'm ***Android*** and ***Desktop Developer***.
+
+I have ***4 years*** experience ***OOP*** programming. I'm developing ***High-level*** application with ***Java***. My all applications have ***MVVM Design Pattern***
+
+- 🚀 I'm currently improving self on ***mid and low-level programming***.
 <!--
 **BatuhanAkar/BatuhanAkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
