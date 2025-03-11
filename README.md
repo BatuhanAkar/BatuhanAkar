@@ -1,10 +1,25 @@
 ## Hi there 👋
 
-I'm ***Android*** and ***Desktop Developer***.
+I'm ***Android & Desktop Developer*** and little ***Server Side & WEB***
 
 I have ***4 years*** experience ***OOP*** programming. I'm developing ***High-level*** application with ***Java***. My all applications have ***MVVM Design Pattern***
 
-- 🚀 I'm currently improving self on ***mid and low-level programming***.
+- 🚀 I'm currently improving self on ***mid and low-level programming***. Also ***IOS***
+
+
+> Summary
+>
+> Java
+> Kotlin
+> C++
+> Nodejs
+> React
+> Next
+> Nginx
+> Docker
+> ***Not yet Swift & SwiftUI :))***
+> ***Soon Pyhton :))***
+
 
 
 ![thecodefather](thecodefather.jpg "The codefather")
