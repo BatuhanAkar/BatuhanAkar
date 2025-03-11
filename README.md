@@ -20,10 +20,7 @@ I have ***4 years*** experience ***OOP*** programming. I'm developing ***High-le
 > - ***Not yet Swift & SwiftUI :))***
 > - ***Soon Pyhton :))***
 
-<p align="center">
-  <img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhoZWFjZTV3Y2ZyejVpa3Z3dTcxcTF2MHI0ajF5dzR6MzZuanYyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaDcc0LTCuIAiGYrzn/giphy.gif)" alt="">
-</p>
-
+![thecodefather](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhoZWFjZTV3Y2ZyejVpa3Z3dTcxcTF2MHI0ajF5dzR6MzZuanYyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaDcc0LTCuIAiGYrzn/giphy.gif)
 
 <!--
 **BatuhanAkar/BatuhanAkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
