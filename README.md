@@ -9,16 +9,16 @@ I have ***4 years*** experience ***OOP*** programming. I'm developing ***High-le
 
 > Summary
 >
-> Java
-> Kotlin
-> C++
-> Nodejs
-> React
-> Next
-> Nginx
-> Docker
-> ***Not yet Swift & SwiftUI :))***
-> ***Soon Pyhton :))***
+> - Java
+> - Kotlin
+> - C++
+> - Nodejs
+> - React
+> - Next
+> - Nginx
+> - Docker
+> - ***Not yet Swift & SwiftUI :))***
+> - ***Soon Pyhton :))***
 
 
 
