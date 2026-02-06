@@ -34,15 +34,4 @@ I am an Android Developer with over 3 years of experience, transitioning from th
 
 ---
 
-### 📊 GitHub Insights
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Batuhan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batuhan&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-- 💼 **LinkedIn:** [Your Profile Link]
-- 📧 **Email:** [Your Email Address]
-
----
 *"Building robust mobile experiences with a focus on Clean Code and User Satisfaction."*
