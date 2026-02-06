@@ -1,38 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Batuhan 👋
 
-I'm ***Android & Desktop Developer*** and little ***Server Side & WEB***
+### Pro-active Android Developer | Architecture Enthusiast | Full-Stack Explorer
 
-I have ***4 years*** experience ***OOP*** programming. I'm developing ***High-level*** application with ***Java***. My all applications have ***MVVM Design Pattern***
+I am an Android Developer with over 3 years of experience, transitioning from the roots of **Java** to the modern, declarative world of **Jetpack Compose**. I don't just write code; I build scalable, maintainable systems using industry-standard architectures.
 
-- 🚀 I'm currently improving self on ***mid and low-level programming***. Also ***IOS***
+---
 
+### 🛠 Technical Expertise
 
-> Summary
->
-> - Java
-> - Kotlin
-> - C++
-> - Nodejs
-> - React
-> - Next
-> - Nginx
-> - Docker
-> - ***Not yet Swift & SwiftUI :))***
-> - ***Soon Pyhton :))***
+- **Mobile Core:** Kotlin & Java Specialist.
+- **Modern UI:** Advanced **Jetpack Compose** & Material Design 3 implementation.
+- **Architecture:** Strong focus on **MVVM** and **Clean Architecture**. Recently specialized in **Domain-Based Layering** (UseCases, Domain Models, and Core modules) for maximum decoupling.
+- **Dependency Injection:** Expert in **Hilt & Dagger**—transforming complex dependency graphs into clean, injectable code.
+- **Data Management:** - **Local Persistence:** Room DB & DataStore (for lightweight preferences).
+  - **Remote:** Retrofit & OkHttp for RESTful API integration.
+  - **Offline-First:** Mastering the "Local + Remote" synchronization pattern.
+- **Firebase Ecosystem:** Deep experience in leveraging the full Firebase suite (Auth, Firestore, Messaging, etc.) as a robust backend solution.
 
-![thecodefather](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhoZWFjZTV3Y2ZyejVpa3Z3dTcxcTF2MHI0ajF5dzR6MzZuanYyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaDcc0LTCuIAiGYrzn/giphy.gif)
+---
 
-<!--
-**BatuhanAkar/BatuhanAkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Beyond the Code
 
-Here are some ideas to get you started:
+- **Backend Awareness:** Comfortable working with **Go (Golang)** and **Node.js**, giving me a unique perspective on end-to-end data flow.
+- **App Lifecycle & UX:** Experienced in handling complex asynchronous operations (Coroutines/Flow) to keep UIs responsive during media playback or heavy backend processing.
+- **Store Management:** Full mastery of the **Google Play Console**—from internal testing tracks to production release management.
+- **Infrastructure:** Capable of self-hosting services (e.g., Jitsi Meet) and building web landing pages to support mobile ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Top Tools & Skills
+
+`Kotlin` `Jetpack Compose` `Hilt` `Clean Architecture` `MVVM` `Go` `Firebase` `Room` `Retrofit`
+
+---
+
+### 📊 GitHub Insights
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Batuhan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batuhan&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+- 💼 **LinkedIn:** [Your Profile Link]
+- 📧 **Email:** [Your Email Address]
+
+---
+*"Building robust mobile experiences with a focus on Clean Code and User Satisfaction."*
