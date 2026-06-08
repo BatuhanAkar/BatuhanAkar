@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README.TR.md">🇹🇷 Türkçe Dokümantasyon</a>
+  <a href="./Readme.TR.md">🇹🇷 Türkçe Dokümantasyon</a>
 </div>
 
 # Hi there, I'm Batuhan 👋
