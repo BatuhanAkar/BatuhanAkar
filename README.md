@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="./README.TR.md">🇹🇷 Türkçe Dokümantasyon</a>
+</div>
+
 # Hi there, I'm Batuhan 👋
 ### Full-Stack Mobile Engineer | Android Architecture Specialist
 
