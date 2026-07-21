@@ -4,7 +4,7 @@
 
 # Merhaba, Ben Batuhan 👋
 
-**Full-Stack Mobil Mühendisi | Android Mimari Uzmanı**
+**Full-Stack Mobil Geliştiricisi | Android Mimari Uzmanı**
 
 Güçlü Android mimarileri, reaktif veri akışları ve ölçeklenebilir bulut/backend çözümleri konusunda uzmanlaşmış, 5 yılı aşkın canlı ürün (production) deneyimine sahip bir Full-Stack Mobil Geliştiriciyim. Mühendislik felsefem; sorumlulukların kesin olarak ayrılması (strict separation of concerns), çevrimdışı öncelikli (offline-first) yetenekler ve kurumsal yazılımların sürdürülebilir modüllere ayrıştırılması (decoupling) ilkeleri etrafında şekillenir.
 
