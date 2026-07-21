@@ -3,7 +3,7 @@
 </div>
 
 # Hi there, I'm Batuhan 👋
-### Full-Stack Mobile Engineer | Android Architecture Specialist
+### Full-Stack Mobile Developer | Android Architecture Specialist
 
 I am a Full-Stack Mobile Developer with over 5 years of production experience, specializing in robust Android architectures, reactive data streams, and scalable cloud/backend solutions. My engineering philosophy revolves around strict separation of concerns, offline-first capabilities, and decoupling enterprise software into maintainable modules.
 
